@@ -1,3 +1,9 @@
+TEST STATUS
+============
+![Python package](https://github.com/joej164/ansible_test_role/workflows/Python%20package/badge.svg)
+![Python package](https://github.com/joej164/ansible_test_role/workflows/Python%20package/badge.svg?branch=master&event=status)
+![Python package](https://github.com/joej164/ansible_test_role/workflows/Python%20package/badge.svg?branch=master&event=workflow_dispatch)
+
 Role Name
 =========
 
