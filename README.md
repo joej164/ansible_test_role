@@ -1,8 +1,16 @@
 TEST STATUS
 ============
-![Python package](https://github.com/joej164/ansible_test_role/workflows/Python%20package/badge.svg)
-![Python package](https://github.com/joej164/ansible_test_role/workflows/Python%20package/badge.svg?branch=master&event=status)
-![Python package](https://github.com/joej164/ansible_test_role/workflows/Python%20package/badge.svg?branch=master&event=workflow_dispatch)
+![Python 3.8 Ansible 2.9](https://github.com/joej164/ansible_test_role/workflows/Python%203.8%20Ansible%202.9/badge.svg?branch=master)
+![Python 3.8 Ansible 2.8](https://github.com/joej164/ansible_test_role/workflows/Python%203.8%20Ansible%202.8/badge.svg?branch=master)
+
+![Python 3.7 Ansible 2.9](https://github.com/joej164/ansible_test_role/workflows/Python%203.7%20Ansible%202.9/badge.svg)
+![Python 3.7 Ansible 2.8](https://github.com/joej164/ansible_test_role/workflows/Python%203.7%20Ansible%202.8/badge.svg)
+
+![Python 3.6 Ansible 2.9](https://github.com/joej164/ansible_test_role/workflows/Python%203.6%20Ansible%202.9/badge.svg)
+![Python 3.6 Ansible 2.8](https://github.com/joej164/ansible_test_role/workflows/Python%203.6%20Ansible%202.8/badge.svg)
+
+
+
 
 Role Name
 =========
